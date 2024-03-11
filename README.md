@@ -19,7 +19,7 @@ R: Move right.
 L: Move left.
 
 
-##Transition Probabilities
+## Transition Probabilities
 The transition probabilities for each action are as follows:
 
 50% chance that the agent moves in the intended direction.

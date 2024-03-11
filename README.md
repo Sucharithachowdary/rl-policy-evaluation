@@ -22,7 +22,7 @@ L: Move left.
 ## Transition Probabilities
 The transition probabilities for each action are as follows:
 
-*50% chance that the agent moves in the intended direction.
+* 50% chance that the agent moves in the intended direction.
 
 33.33% chance that the agent stays in its current state.
 

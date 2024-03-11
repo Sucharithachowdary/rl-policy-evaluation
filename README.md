@@ -22,7 +22,7 @@ L: Move left.
 ## Transition Probabilities
 The transition probabilities for each action are as follows:
 
-50% chance that the agent moves in the intended direction.
+*50% chance that the agent moves in the intended direction.
 
 33.33% chance that the agent stays in its current state.
 
@@ -41,6 +41,10 @@ The agent receives a reward of +1 for reaching the goal state (G). The agent rec
 ![2](https://github.com/Sucharithachowdary/rl-policy-evaluation/assets/94166007/adfddcb6-60b0-44cc-a03a-f7152e45ca93)
 
 ## Program
+~~~
+NAME 
+
+~~~
 ~~~
 pip install git+https://github.com/mimoralea/gym-walk#egg=gym-walk
 

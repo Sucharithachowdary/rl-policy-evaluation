@@ -132,6 +132,10 @@ print('Reaches goal {:.2f}%. Obtains an average undiscounted return of {:.4f}.'.
     mean_return(env, pi_1)))
 
 ## Create your own policy
+````
+NAME : Sucharitha.k
+REG NO : 212221240021
+````
 pi_2 = lambda s: {
     0:LEFT, 1:RIGHT, 2:RIGHT, 3:LEFT, 4:LEFT, 5:RIGHT, 6:LEFT
 }[s]

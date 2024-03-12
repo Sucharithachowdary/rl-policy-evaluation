@@ -200,7 +200,8 @@ else:
 ![27](https://github.com/Sucharithachowdary/rl-policy-evaluation/assets/94166007/b3915e64-8911-472f-84ed-aeae854c0b97)
 
 ### Conclusion :
-![28](https://github.com/Sucharithachowdary/rl-policy-evaluation/assets/94166007/7d8d6ea1-36e0-497e-a1f7-c6a6eabbcf36)
+<img width="221" alt="image" src="https://github.com/Sucharithachowdary/rl-policy-evaluation/assets/94166007/36fafb5b-041a-47a3-aae9-a45e1939d336">
+
 
 
 ## RESULT:
